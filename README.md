@@ -1,11 +1,2 @@
-* 自我介绍
-    * 正在提升的菜鸟...
-* 个人技能
-    * 有什么比提升自己更有意思呢
-* 近期规划
-    * 维护github
-    * 搭建自己的个人博客
-    * 学习TheGraph的使用
-    * 学习Solidity节省gas操作
-    * 学习Rust语言
-    * 使用Rust写出项目
+* Self introduction
+     * A rookie who is learning...
