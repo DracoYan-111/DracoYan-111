@@ -36,10 +36,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanLong-111"></img>
 
-
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
-
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YanLong-111" width="auto"></img>
 
