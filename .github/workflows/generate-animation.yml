@@ -1,19 +1,12 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
     - master
-    
-  
 
 jobs:
   generate:
@@ -23,7 +16,6 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,12 +23,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Commit & Push
+          
+      - name: Push github-contribution-grid-snake.svg to the main branch
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          mv dist/github-contribution-grid-snake.svg assets/
+          git add assets/github-contribution-grid-snake.svg
+          git commit -m "Add generated snake SVG to assets folder"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.DRACO_GITHUB_TOKEN }}
