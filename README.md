@@ -26,7 +26,7 @@
 - 👨‍💻 Tenderly功能介绍: [Tenderly强大的Web3开发平台](https://private-thursday-1d0.notion.site/Tenderly-Web3-111655235e348009a14bd04d87cd1ecd?pvs=25)
 
 <!--   my-header-img -->
-![](./src/header_.png)
+![](assets/header_.png)
 
 <!--   my-skils -->
 
