@@ -40,5 +40,6 @@ jobs:
         with:
           target_branch: main
           build_dir: dist
+          destination_dir: animations   # 指定一个子目录来保存生成的文件
         env:
           GITHUB_TOKEN: ${{ secrets.DRACO_GITHUB_TOKEN }}
