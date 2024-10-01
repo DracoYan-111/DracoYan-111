@@ -19,7 +19,7 @@
 
 - 👯 智能合约调用方法: [单刀直入智能合约](https://private-thursday-1d0.notion.site/ecec80a9d3b04896baac7a4f67265c14?pvs=4)
 
-- 👨‍💻 Tenderly功能的使用介绍: [Tenderly强大的Web3开发平台](https://private-thursday-1d0.notion.site/Tenderly-Web3-111655235e348009a14bd04d87cd1ecd?pvs=25)
+- 👨‍💻 Tenderly功能介绍: [Tenderly强大的Web3开发平台](https://private-thursday-1d0.notion.site/Tenderly-Web3-111655235e348009a14bd04d87cd1ecd?pvs=25)
 
 <!--   my-header-img -->
 ![](./src/header_.png)
