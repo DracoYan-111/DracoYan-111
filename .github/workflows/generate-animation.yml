@@ -16,6 +16,11 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Step 1: Checkout the repository so that you can work with the files in the repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      # Step 2: Generate the snake SVG
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,10 +29,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
+      # Step 3: Push the SVG to the XXX folder on the main branch
       - name: Push github-contribution-grid-snake.svg to the main branch
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+         
           mv dist/github-contribution-grid-snake.svg assets/
           git add assets/github-contribution-grid-snake.svg
           git commit -m "Add generated snake SVG to assets folder"
