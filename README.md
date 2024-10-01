@@ -43,8 +43,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
 
@@ -52,19 +50,19 @@
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-15.9%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
 
-**🐱 我的 GitHub 数据** 
+**🐱 我的 GitHub 数据**
 
-> 📦  使用了 74.5 kB GitHub 存储空间 
- > 
+> 📦  使用了 74.5 kB GitHub 存储空间
+ >
 > 🏆 419 个贡献，在 2024 年
- > 
+ >
 > 💼 开放招聘
- > 
-> 📜 42 个公共仓库 
- > 
-> 🔑 18 个私人仓库 
- > 
-**我是早起的 🐤** 
+ >
+> 📜 42 个公共仓库
+ >
+> 🔑 18 个私人仓库
+ >
+**我是早起的 🐤**
 
 ```text
 🌞 早晨                     582 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
@@ -72,7 +70,8 @@
 🌃 傍晚                     719 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
 🌙 晚上                     3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
-📅 **我最有效率是在 星期三** 
+
+📅 **我最有效率是在 星期三**
 
 ```text
 星期一                      392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
@@ -84,8 +83,7 @@
 星期日                      121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
-
-📊 **本周消耗时间** 
+📊 **本周消耗时间**
 
 ```text
 🕑︎ 时区: Asia/Shanghai
@@ -100,7 +98,7 @@
 本周没有记录到任何活动
 ```
 
-**我最常使用 Solidity** 
+**我最常使用 Solidity**
 
 ```text
 Solidity                 44 repos            ████████████████░░░░░░░░░   63.77 % 
@@ -110,23 +108,15 @@ Go                       2 repos             █░░░░░░░░░░�
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
-
-
-
  Last Updated on 01/10/2024 15:33:41 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
 ![](profile-3d-contrib/profile-season-animate.svg)
 
+<img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YanLong-111" width="auto" ></img>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ### 🏆Github Profile Trophy
 
