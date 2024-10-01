@@ -122,6 +122,12 @@ JavaScript               2 repos             █░░░░░░░░░░�
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YanLong-111" width="auto" ></img>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### 🏆Github Profile Trophy
 
 <p align="center">
