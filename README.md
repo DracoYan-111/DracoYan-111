@@ -49,15 +49,15 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-247-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.5 kB Used in GitHub's Storage 
+> 📦 74.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -92,15 +92,15 @@ Sunday                   121 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 3 mins         ███████████████░░░░░░░░░░   59.05 % 
-Markdown                 40 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
-Image (svg)              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+YAML                     1 hr 43 mins        ██████████████░░░░░░░░░░░   56.33 % 
+Markdown                 1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.21 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Solidity** 
@@ -116,7 +116,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 00:58:24 UTC
+ Last Updated on 03/10/2024 00:58:26 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
