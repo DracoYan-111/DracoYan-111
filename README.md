@@ -49,7 +49,7 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-250-blue)
 
@@ -58,8 +58,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 74.6 kB Used in GitHub's Storage 
- > 
-> 🏆 472 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +117,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 01:00:37 UTC
+ Last Updated on 08/10/2024 00:58:13 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
