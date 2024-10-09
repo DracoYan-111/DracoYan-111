@@ -2,7 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    # Runs at 00:00AM UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -32,10 +33,11 @@ jobs:
       # Step 3: Push the SVG to the XXX folder on the main branch
       - name: Push github-contribution-grid-snake.svg to the main branch
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "DracoYan-111"
+          git config user.email "yanlong2944@gmail.com"
          
           mv dist/github-contribution-grid-snake.svg assets/
+          
           git add assets/github-contribution-grid-snake.svg
           git commit -m "Add generated snake SVG to assets folder"
           git push origin main
