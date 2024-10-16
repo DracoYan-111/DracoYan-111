@@ -134,7 +134,7 @@ Go                       2 repos             █░░░░░░░░░░�
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DracoYan-111" alt="DracoYan-111"/></a>
 </p>
 
-#### I have accepted 1,918 completions in 10 different coding languages using Codeium from [My Codeium](https://codeium.com/profile/dracodecodeium)
+#### I have accepted 2,818 completions in 11 different coding languages using Codeium from [My Codeium](https://codeium.com/profile/dracodecodeium)
 
 ![](assets/codeium.jpg)
 
