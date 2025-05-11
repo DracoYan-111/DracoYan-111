@@ -49,7 +49,7 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -58,6 +58,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 88.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 481 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,20 +70,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2692 commits        █████████░░░░░░░░░░░░░░░░   34.78 % 
-🌆 Daytime                3284 commits        ███████████░░░░░░░░░░░░░░   42.42 % 
-🌃 Evening                1675 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌞 Morning                2694 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌆 Daytime                3284 commits        ███████████░░░░░░░░░░░░░░   42.41 % 
+🌃 Evening                1675 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
 🌙 Night                  90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2261 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+Monday                   2261 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
 Tuesday                  1398 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Wednesday                1442 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                1442 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 Thursday                 998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 Friday                   1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 260 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Saturday                 262 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 Sunday                   193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
@@ -119,7 +121,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 01:06:00 UTC
+ Last Updated on 11/05/2025 01:12:47 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
