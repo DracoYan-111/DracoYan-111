@@ -49,7 +49,7 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,7 +59,7 @@
 
 > 📦 88.8 kB Used in GitHub's Storage 
  > 
-> 🏆 510 Contributions in the Year 2025
+> 🏆 512 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,20 +70,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2880 commits        █████████░░░░░░░░░░░░░░░░   35.26 % 
-🌆 Daytime                3459 commits        ███████████░░░░░░░░░░░░░░   42.35 % 
+🌞 Morning                2882 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌆 Daytime                3459 commits        ███████████░░░░░░░░░░░░░░   42.34 % 
 🌃 Evening                1739 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 🌙 Night                  90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2452 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Monday                   2452 commits        ████████░░░░░░░░░░░░░░░░░   30.01 % 
 Tuesday                  1460 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
 Wednesday                1499 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 Thursday                 1047 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 Friday                   1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Saturday                 271 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 Sunday                   197 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
@@ -121,7 +121,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2025 01:06:58 UTC
+ Last Updated on 25/05/2025 01:16:06 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
