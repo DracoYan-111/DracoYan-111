@@ -49,7 +49,7 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -58,6 +58,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 89.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 570 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,8 +70,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3000 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
-🌆 Daytime                3522 commits        ███████████░░░░░░░░░░░░░░   42.05 % 
+🌞 Morning                3002 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌆 Daytime                3522 commits        ███████████░░░░░░░░░░░░░░   42.04 % 
 🌃 Evening                1763 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 🌙 Night                  90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
@@ -79,9 +81,9 @@
 Monday                   2532 commits        ████████░░░░░░░░░░░░░░░░░   30.23 % 
 Tuesday                  1492 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 Wednesday                1532 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Thursday                 1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 Friday                   1270 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Saturday                 279 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Saturday                 281 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Sunday                   205 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
@@ -117,7 +119,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 01:10:05 UTC
+ Last Updated on 22/06/2025 01:17:51 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
