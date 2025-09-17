@@ -49,8 +49,6 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
@@ -59,7 +57,7 @@
 
 > 📦 92.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,034 Contributions in the Year 2025
+> 🏆 1,036 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -67,46 +65,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3244 commits        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌆 Daytime                4365 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
-🌃 Evening                2325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-🌙 Night                  365 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   2970 commits        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Tuesday                  1965 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Wednesday                2098 commits        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Thursday                 1294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   1434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Sunday                   231 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               16 hrs 55 mins      ██████████████████░░░░░░░   73.62 % 
-Python                   5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🔥 Editors: 
-Cursor                   22 hrs 59 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Solidity** 
 
 ```text
@@ -120,7 +78,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 01:04:27 UTC
+ Last Updated on 17/09/2025 01:04:26 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
