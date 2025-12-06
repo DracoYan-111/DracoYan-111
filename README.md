@@ -49,9 +49,9 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
 
@@ -59,7 +59,7 @@
 
 > 📦 96.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,363 Contributions in the Year 2025
+> 🏆 1,365 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +70,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3435 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌞 Morning                3437 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
 🌆 Daytime                4656 commits        ██████████░░░░░░░░░░░░░░░   41.98 % 
 🌃 Evening                2542 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 🌙 Night                  457 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
@@ -82,7 +82,7 @@ Monday                   3122 commits        ███████░░░░�
 Tuesday                  2132 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 Wednesday                2288 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 Thursday                 1434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Friday                   1505 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Friday                   1507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Saturday                 356 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 Sunday                   253 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
@@ -94,15 +94,14 @@ Sunday                   253 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     7 mins              ███████████░░░░░░░░░░░░░░   42.39 % 
-JavaScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-Markdown                 4 mins              ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+YAML                     7 mins              ███████████████░░░░░░░░░░   60.44 % 
+Markdown                 4 mins              ██████████░░░░░░░░░░░░░░░   39.56 % 
 
 🔥 Editors: 
-Cursor                   18 mins             █████████████████████████   100.00 % 
+Cursor                   12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Solidity** 
@@ -118,7 +117,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 01:13:46 UTC
+ Last Updated on 06/12/2025 01:09:49 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
