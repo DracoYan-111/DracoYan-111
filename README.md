@@ -49,17 +49,17 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 97.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,401 Contributions in the Year 2025
+> 🏆 1,403 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,21 +70,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3465 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌆 Daytime                4685 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
-🌃 Evening                2567 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌙 Night                  461 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌞 Morning                3477 commits        ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌆 Daytime                4737 commits        ██████████░░░░░░░░░░░░░░░   41.88 % 
+🌃 Evening                2609 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌙 Night                  487 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3142 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Tuesday                  2145 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Wednesday                2307 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Thursday                 1443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Friday                   1522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Sunday                   259 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Monday                   3161 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Tuesday                  2179 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Wednesday                2337 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Thursday                 1477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Friday                   1531 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 366 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Sunday                   259 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 
@@ -120,7 +120,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 01:11:05 UTC
+ Last Updated on 21/12/2025 01:19:25 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
