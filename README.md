@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.26%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.21%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 97.9 kB Used in GitHub's Storage 
+> 📦 98.0 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,17 +68,17 @@
 **I Mostly Code in Solidity** 
 
 ```text
-Solidity                 47 repos            ██████████████░░░░░░░░░░░   56.63 % 
-TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Solidity                 46 repos            ██████████████░░░░░░░░░░░   56.10 % 
+TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 01:12:27 UTC
+ Last Updated on 04/01/2026 01:23:52 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
