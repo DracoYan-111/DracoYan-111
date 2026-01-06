@@ -49,15 +49,17 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.21%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.0 kB Used in GitHub's Storage 
+> 📦 98.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 10 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,6 +67,46 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3498 commits        ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌆 Daytime                4710 commits        ██████████░░░░░░░░░░░░░░░   41.75 % 
+🌃 Evening                2596 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+🌙 Night                  477 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3153 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Tuesday                  2151 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Wednesday                2338 commits        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Thursday                 1477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Friday                   1529 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 370 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Sunday                   263 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       4 hrs 46 mins       ██████████████████░░░░░░░   72.22 % 
+Bash                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+
+🔥 Editors: 
+Cursor                   6 hrs 36 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Solidity** 
 
 ```text
@@ -78,7 +120,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:23:52 UTC
+ Last Updated on 06/01/2026 01:17:09 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
