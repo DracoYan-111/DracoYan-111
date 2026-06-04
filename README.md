@@ -49,7 +49,7 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -59,32 +59,32 @@
 
 > 📦 139.2 kB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2026
+> 🏆 369 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1952 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌆 Daytime                2666 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌃 Evening                1705 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌞 Morning                1952 commits        ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌆 Daytime                2668 commits        ██████████░░░░░░░░░░░░░░░   39.25 % 
+🌃 Evening                1705 commits        ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
 🌙 Night                  473 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  1332 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Wednesday                1604 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Thursday                 1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Tuesday                  1332 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Wednesday                1606 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Thursday                 1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 Friday                   881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 Saturday                 354 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Sunday                   296 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Sunday                   296 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -94,13 +94,16 @@ Sunday                   296 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    17 mins             ████████████░░░░░░░░░░░░░   48.55 % 
+Markdown                 12 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   32 mins             ██████████████████████░░░   87.44 % 
+VS Code                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Solidity** 
@@ -116,7 +119,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2026 03:34:54 UTC
+ Last Updated on 04/06/2026 03:04:02 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
