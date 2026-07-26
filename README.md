@@ -49,15 +49,17 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%209%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 148.5 kB Used in GitHub's Storage 
+> 📦 148.6 kB Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2026
+> 🏆 482 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,20 +70,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2023 commits        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-🌆 Daytime                2723 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
-🌃 Evening                1729 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌞 Morning                2025 commits        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+🌆 Daytime                2723 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                1729 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 🌙 Night                  477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Tuesday                  1347 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Wednesday                1648 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Thursday                 1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Friday                   905 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 374 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Tuesday                  1347 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Wednesday                1648 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+Thursday                 1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Friday                   905 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Saturday                 376 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 Sunday                   310 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
@@ -92,18 +94,18 @@ Sunday                   310 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-C++                      2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Java                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-TypeScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Other                    3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Python                   3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+C++                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Java                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+AGS Script               1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 15 mins       ██████████████░░░░░░░░░░░   55.97 % 
-Claude Code              6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.03 % 
+Claude Code              9 hrs 27 mins       █████████████░░░░░░░░░░░░   50.29 % 
+Cursor                   9 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.71 % 
 
 💻 Operating System: 
-Mac                      14 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Solidity** 
@@ -119,7 +121,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:07:00 UTC
+ Last Updated on 26/07/2026 02:11:23 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
