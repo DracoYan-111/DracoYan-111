@@ -49,11 +49,11 @@
 | ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -61,7 +61,7 @@
 
 > 📦 149.3 kB Used in GitHub's Storage 
  > 
-> 🏆 528 Contributions in the Year 2026
+> 🏆 530 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,21 +72,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2071 commits        ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌆 Daytime                2724 commits        ██████████░░░░░░░░░░░░░░░   38.90 % 
-🌃 Evening                1730 commits        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌞 Morning                2073 commits        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+🌆 Daytime                2724 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
+🌃 Evening                1730 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
 🌙 Night                  477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1220 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Tuesday                  1353 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Wednesday                1655 commits        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Thursday                 1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  1355 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                1655 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Thursday                 1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 Friday                   911 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Sunday                   319 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Saturday                 382 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Sunday                   319 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -96,44 +96,44 @@ Sunday                   319 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-Other                    2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Text                     4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+Other                    2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Python                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-Claude Code              3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Agent                    3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Cursor                   6 hrs 27 mins       █████████████░░░░░░░░░░░░   50.70 % 
+Agent                    3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Claude Code              2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 
 💻 Operating System: 
-Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 59 mins (91.27%)
+⏱ AI Coding Time: 11 hrs 22 mins (89.37%)
 
-✍️ 4,305 lines written by AI, 49 lines written by hand (98.87% AI-written)
+✍️ 2,775 lines written by AI, 79 lines written by hand (97.23% AI-written)
 
-🔤 4,689,649 Input Tokens, 519,048 Output Tokens
+🔤 2,327,304 Input Tokens, 398,943 Output Tokens
 
-💵 $53.51 Estimated AI Cost This Week
+💵 $22.17 Estimated AI Cost This Week
 
-🧠 107 AI Sessions, 672 AI Prompts
+🧠 106 AI Sessions, 577 AI Prompts
 
-Opus                     1,963 lines         ██████████████████░░░░░░░   71.59 % 
-Composer                 779 lines           ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Composer                 779 lines           ██████████████████████░░░   86.27 % 
+Opus                     124 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
-📚 Verbose Prompter — average 6,663 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.33% of changed lines were hand-edited
+🤖 AI-Driven — 97.23% of written lines came from AI
+📚 Verbose Prompter — average 5,585 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Solidity** 
@@ -149,7 +149,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 00:55:59 UTC
+ Last Updated on 19/08/2026 00:55:42 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
