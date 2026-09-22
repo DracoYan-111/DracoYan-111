@@ -154,18 +154,6 @@ Python                   4 repos             █░░░░░░░░░░�
 
 <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake.svg">
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YanLong-111" width="auto" ></img>
-
-### 🏆Github Profile Trophy
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DracoYan-111" alt="DracoYan-111"/></a>
-</p>
-
-#### I have accepted 2,818 completions in 11 different coding languages using Codeium from [My Codeium](https://codeium.com/profile/dracodecodeium)
-
-![](assets/codeium.jpg)
-
 ### 📫 How to Reach me
 
 <p align="center">
