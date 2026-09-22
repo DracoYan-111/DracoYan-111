@@ -44,9 +44,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DracoYan-111&theme=2077)<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoYan-111"/>
 
-|😅                                                                                                                                                      |         🤪                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| ![DracoYan-111's github stats](https://github-readme-stats.vercel.app/api?username=DracoYan-111&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoYan-111&theme=radical&layout=compact) |
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2028%20mins-blue?style=flat)
