@@ -46,9 +46,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -58,7 +58,7 @@
 
 > 📦 272.2 kB Used in GitHub's Storage 
  > 
-> 🏆 759 Contributions in the Year 2026
+> 🏆 761 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,8 +70,8 @@
 
 ```text
 🌞 Morning                3022 commits        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌆 Daytime                5429 commits        ███████████░░░░░░░░░░░░░░   43.10 % 
-🌃 Evening                3224 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌆 Daytime                5431 commits        ███████████░░░░░░░░░░░░░░   43.11 % 
+🌃 Evening                3224 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 🌙 Night                  920 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -79,11 +79,11 @@
 ```text
 Monday                   2678 commits        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
 Tuesday                  2772 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Wednesday                2900 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Wednesday                2900 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
 Thursday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Friday                   1493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Saturday                 427 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   356 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Sunday                   358 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 
@@ -93,23 +93,23 @@ Sunday                   356 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 2 mins         █████████████░░░░░░░░░░░░   50.17 % 
-Other                    42 mins             ████████░░░░░░░░░░░░░░░░░   33.69 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Rust                     1 hr 2 mins         ██████████████░░░░░░░░░░░   54.20 % 
+Other                    35 mins             ████████░░░░░░░░░░░░░░░░░   30.68 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+AGS Script               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 5 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (68.93%)
+⏱ AI Coding Time: 1 hr 16 mins (66.44%)
 
 ✍️ 0 lines written by AI, 142 lines written by hand (0.0% AI-written)
 
@@ -117,11 +117,11 @@ Mac                      2 hrs 5 mins        ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 60 AI Prompts
+🧠 5 AI Sessions, 50 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,455 characters per prompt
+📚 Verbose Prompter — average 4,140 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -139,7 +139,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 03:26:39 UTC
+ Last Updated on 12/10/2026 03:50:38 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
