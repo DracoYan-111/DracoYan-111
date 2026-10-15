@@ -46,9 +46,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -56,9 +56,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 272.2 kB Used in GitHub's Storage 
+> 📦 272.3 kB Used in GitHub's Storage 
  > 
-> 🏆 765 Contributions in the Year 2026
+> 🏆 767 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,18 +69,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3022 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌆 Daytime                5435 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
-🌃 Evening                3224 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌞 Morning                3023 commits        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+🌆 Daytime                5436 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
+🌃 Evening                3224 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 🌙 Night                  920 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2680 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Monday                   2680 commits        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
 Tuesday                  2774 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Wednesday                2900 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Thursday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                2902 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Thursday                 1969 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 Friday                   1493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Saturday                 427 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Sunday                   358 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
@@ -93,25 +93,25 @@ Sunday                   358 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 mins             █████████░░░░░░░░░░░░░░░░   37.84 % 
-Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-Cursor                   1 hr 9 mins         █████████████████████████   100.00 % 
+Cursor                   2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (49.03%)
+⏱ AI Coding Time: 36 mins (26.06%)
 
-✍️ 0 lines written by AI, 183 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 362 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -139,7 +139,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 03:09:44 UTC
+ Last Updated on 15/10/2026 02:48:51 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
