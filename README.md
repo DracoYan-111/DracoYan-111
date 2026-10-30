@@ -46,9 +46,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -58,7 +58,7 @@
 
 > 📦 275.8 kB Used in GitHub's Storage 
  > 
-> 🏆 882 Contributions in the Year 2026
+> 🏆 884 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,8 +70,8 @@
 
 ```text
 🌞 Morning                3063 commits        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌆 Daytime                5477 commits        ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                3262 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+🌆 Daytime                5479 commits        ███████████░░░░░░░░░░░░░░   43.05 % 
+🌃 Evening                3262 commits        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
 🌙 Night                  922 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -80,7 +80,7 @@
 Monday                   2691 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 Tuesday                  2791 commits        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
 Wednesday                2910 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Thursday                 2016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 2018 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 Friday                   1504 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Saturday                 433 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 Sunday                   379 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
@@ -93,32 +93,32 @@ Sunday                   379 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.24 % 
-Other                    2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-XML                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+HTML                     5 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.78 % 
+Other                    2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Markdown                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+XML                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 23 mins      ███████████████████████░░   91.49 % 
-Antigravity CLI          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Cursor                   11 hrs 19 mins      ███████████████████████░░   92.14 % 
+Antigravity CLI          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 💻 Operating System: 
-Mac                      11 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (83.7%)
+⏱ AI Coding Time: 10 hrs 11 mins (82.95%)
 
-✍️ 0 lines written by AI, 107 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
-🔤 13,913,220 Input Tokens, 1,418,675 Output Tokens
+🔤 14,327,896 Input Tokens, 1,425,128 Output Tokens
 
-💵 $45.36 Estimated AI Cost This Week
+💵 $46.27 Estimated AI Cost This Week
 
-🧠 1719 AI Sessions, 442 AI Prompts
+🧠 1720 AI Sessions, 460 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -126,7 +126,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,723 characters per prompt
+📚 Verbose Prompter — average 2,804 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -144,7 +144,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 03:58:46 UTC
+ Last Updated on 30/10/2026 04:00:54 UTC
 <!--END_SECTION:waka-->
 
 <!--  2d history skills -->
